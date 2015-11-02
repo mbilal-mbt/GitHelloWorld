@@ -19,7 +19,7 @@
     
     NSLog(@"Im printing this for git");
     
-    [self.view setBackgroundColor:[UIColor redColor]];
+    [self.view setBackgroundColor:[UIColor yellowColor]];
     
     // Do any additional setup after loading the view, typically from a nib.
 }
